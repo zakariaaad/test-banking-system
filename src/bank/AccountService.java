@@ -38,7 +38,7 @@ public class AccountService {
         transactions.add(new Transaction(date, -amount, balance));
     }
 
-    public void printResult() {
+    public void printStatement() {
         System.out.println("DATE        || AMOUNT  || BALANCE");
 
         transactions.stream()
