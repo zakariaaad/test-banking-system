@@ -21,7 +21,7 @@ The implementation follows  basic object-oriented design, and respects all const
 * **Data Storage**: In-memory (`ArrayList`)
 
 
-## 🧠 Design Explanation
+## Design Explanation
 
 ### Account
 
@@ -46,7 +46,7 @@ This separation reflects real-world banking systems and improves clarity and mai
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Open the project in **IntelliJ IDEA**
 2. Ensure **JDK 21** is configured
