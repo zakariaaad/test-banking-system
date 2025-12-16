@@ -10,6 +10,6 @@ public class Main {
         account.deposit(2000, LocalDate.of(2012, 1, 13));
         account.withdraw(500, LocalDate.of(2012, 1, 14));
 
-        account.printResult();
+        account.printStatement();
     }
 }
